@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"https://github.com/checksumnow/real2"
+	"github.com/checksumnow/real2"
 	"github.com/t3rm1n4l/megacmd/client"
 )
 
